@@ -15,8 +15,8 @@
   background: rgb(82, 195, 3);
   border: none;
 }
-.btn-container{
-    text-align: center;
+.btn-container {
+  text-align: center;
 }
 #hero {
   background: linear-gradient(
@@ -68,4 +68,57 @@
   letter-spacing: 0%;
   text-align: center;
   margin-bottom: 18px;
+}
+
+#card-box {
+  width: 884px;
+  margin: 50px auto;
+}
+#card-box .title {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+#card-box .subtitle {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+#card .card-title {
+  color: rgb(16, 16, 16);
+  font-family: Work Sans;
+  font-size: 18px;
+  padding: 12px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+  border-radius: 8px;
+  background: rgba(82, 195, 3, 0.15);
+}
+#card .card-offer{
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 47px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#card .card-subtitle {
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
 }
